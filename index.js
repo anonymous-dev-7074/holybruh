@@ -72,4 +72,4 @@ String.prototype.replaceAll = function(search, replacement) {
 };
 
 
-client.login("NzY4NTE3MjI2NjU0ODU5Mjk1.X5BncQ.5BogIRZHbeFGS_Zyg3s1nl7ggHs");
+client.login("");
